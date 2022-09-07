@@ -1,0 +1,21 @@
+nav{
+    background-color: rgba(238, 187, 18, 0.884);
+     font-size: larger;
+  }
+ aside{
+      width: 30%;
+      padding-left: 15px;
+      margin-top: 15px;
+      float: right;
+      font-style: italic;
+      background-color: lightgray;
+  }
+  article{
+      background-color: rgb(176, 142, 204);
+  
+  }
+  footer{
+      background-color: rgba(238, 187, 18, 0.884);
+      font-size: larger; 
+      text-align: center;
+  }
